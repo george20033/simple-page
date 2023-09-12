@@ -1,0 +1,43 @@
+.home {
+  background-color: #1abc9c;
+}
+.fa-star {
+  position: relative;
+}
+/* .fa-star::after {
+  content: "";
+  background-color: black;
+  width: 42%;
+  height: 41%;
+  position: absolute;
+  top: 41%;
+  right: 0;
+}
+.fa-star::before {
+  content: "";
+  background-color: black;
+  width: 42%;
+  height: 41%;
+  position: absolute;
+  top: 41%;
+  left: 0;
+} */
+/* .fa-star::before {
+  content: "Before";
+  margin-right: 5px;
+}
+
+.fa-star::after {
+  content: "After";
+  margin-left: 5px;
+} */
+/* .fa-star::before,
+.fa-star::after {
+  content: "";
+  background-color: black;
+  width: 42%;
+  height: 41%;
+  position: absolute;
+  top: 41%;
+  left: 0;
+} */
